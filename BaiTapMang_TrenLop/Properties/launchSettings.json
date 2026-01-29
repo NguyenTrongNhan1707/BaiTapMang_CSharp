@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BaiTapMang_TrenLop": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
